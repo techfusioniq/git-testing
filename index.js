@@ -8,3 +8,9 @@ function SayName(name)
 }
 
 SayName("yash")
+
+
+function isAbout18()
+{
+    return age>=18
+}
