@@ -8,3 +8,10 @@ function SayName(name)
 }
 
 SayName("yash")
+
+function newFeature()
+{
+    console.log('this is new branch code')
+}
+
+newFeature()
