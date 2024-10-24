@@ -15,3 +15,5 @@ function newFeature()
 }
 
 newFeature()
+
+console.log('hello')
